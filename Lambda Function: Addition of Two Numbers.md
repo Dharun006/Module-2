@@ -9,8 +9,16 @@ To write a Python program that defines a **lambda function** which takes two arg
 3. Call the function with the user inputs and print the result.
 
 ## 🧾 Program
-Add code here
+```python
+a=int(input()) 
+b=int(input()) 
+f=lambda a,b: a+b 
+print(f(a,b))
+```
 
 ## Output
+<img width="461" height="186" alt="image" src="https://github.com/user-attachments/assets/192ab369-cd3a-460f-9569-08871f261c07" />
 
 ## Result
+Thus, the program has been successfully executed.
+
